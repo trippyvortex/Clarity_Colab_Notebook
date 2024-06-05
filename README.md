@@ -13,9 +13,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/philz1337x/clarity-upscaler?style=social&label=Star)
 
 ![Example video](example.gif)
-
-[Full Video on X/Twitter](https://x.com/philz1337x/status/1768679154726359128?s=20)
-
 </div>
 
 # 👋 Hello
