@@ -1,40 +1,8 @@
-<div align="center">
 
-<h1> Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative </h1>
-
-[![App](https://img.shields.io/badge/App-ClarityAI.co-blueviolet)](https://ClarityAI.co)
-
-[![API](https://img.shields.io/badge/API-ClarityAI.co/api-green)](https://ClarityAI.co/api)
-[![Replicate](https://img.shields.io/badge/Demo-Replicate-purple)](https://replicate.com/philz1337x/clarity-upscaler)
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-ComfyUI--ClarityAI-blue?logo=github)](https://github.com/philz1337x/ComfyUI-ClarityAI)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/philz1337x?style=social)](https://twitter.com/philz1337x)
-![GitHub stars](https://img.shields.io/github/stars/philz1337x/clarity-upscaler?style=social&label=Star)
-
-![Example video](example.gif)
-</div>
-
-# 👋 Hello
-
-I build open source AI apps. To finance my work i also build paid versions of my code. But feel free to use the free code. I post features and new projects on https://twitter.com/philz1337x
-
-# 🗞️ Updates
-
-- 05/16/2024: Output file format: jpg/png/webp
-- 05/02/2024: Sharpen image
-- 05/07/2024: ComfyUI node (https://x.com/philz1337x/status/1787905308439826920)
-- 04/12/2024: Multi-step upscaling (https://x.com/philz1337x/status/1785269458304442565)
-- 04/07/2024: Resemblance fixed (https://x.com/levelsio/status/1776729356120797265)
-- 04/05/2024: Speed Improvements (https://x.com/philz1337x/status/1776121175195975888)
-- 04/01/2024: Support custom safetensors checkpoints (https://x.com/philz1337x/status/1774772572632338435)
-- 03/28/2024: Anime upscaling (https://x.com/philz1337x/status/1773342568543346738)
-- 03/26/2024: LoRa Support (https://x.com/philz1337x/status/1772575319871959180)
-- 03/21/2024: Pre downscaling (https://x.com/philz1337x/status/1770680096031961351)
-- 03/18/2024: Fractality (https://x.com/philz1337x/status/1769756654533485050)
-- 03/15/2024: Code release (https://x.com/philz1337x/status/1768679154726359128)
 
 # 🚀 Options to use Clarity-Upscaler
+
+# Notebook  https://colab.research.google.com/drive/1q9JTywiev1gEXt2_OcQh1TIJKNSiqjdj?usp=sharing
 
 ## 🧑‍💻 App
 
